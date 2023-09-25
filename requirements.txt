@@ -363,7 +363,7 @@ tomlkit @ file:///tmp/abs_56_0lnnq5x/croots/recipe/tomlkit_1658946880479/work
 toolz @ file:///croot/toolz_1667464077321/work
 torch==2.0.1
 torchvision==0.15.2
-tornado==6.3.2
+tornado==6.3.3
 tqdm==4.65.0
 traitlets==5.9.0
 transformers @ git+https://github.com/huggingface/transformers.git@a982c0225efe3af4700f09d09890b239f551870c
