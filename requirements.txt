@@ -97,7 +97,7 @@ fsspec==2023.6.0
 future @ file:///croot/future_1677599870788/work
 gensim @ file:///croot/gensim_1674852436045/work
 gitdb==4.0.10
-GitPython==3.1.31
+GitPython==3.1.35
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455533097/work
 gradio==3.24.1
