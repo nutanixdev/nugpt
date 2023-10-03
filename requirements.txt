@@ -377,7 +377,7 @@ uc-micro-py==1.0.1
 ujson @ file:///opt/conda/conda-bld/ujson_1657544923770/work
 unicorn==2.0.1.post1
 Unidecode @ file:///tmp/build/80754af9/unidecode_1614712377438/work
-urllib3==2.0.3
+urllib3==2.0.6
 uvicorn==0.15.0
 w3lib @ file:///Users/ktietz/demo/mc3/conda-bld/w3lib_1629359764703/work
 wandb==0.15.4
