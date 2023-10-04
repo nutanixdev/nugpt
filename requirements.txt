@@ -228,7 +228,7 @@ peft @ git+https://github.com/huggingface/peft.git@029f416fced285fe72acd4e1be6c4
 pep8==1.7.1
 pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
 pickleshare==0.7.5
-Pillow==9.4.0
+Pillow==10.0.1
 pkginfo @ file:///croot/pkginfo_1666725041340/work
 platformdirs==3.8.0
 plotly @ file:///tmp/abs_7afcdfad-dbbb-49d2-adea-186abf525c45jbnd8p95/croots/recipe/plotly_1658160053621/work
