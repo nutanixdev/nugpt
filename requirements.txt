@@ -151,7 +151,7 @@ jupyterlab-widgets @ file:///tmp/build/80754af9/jupyterlab_widgets_1609884341231
 jupyterlab_server @ file:///croot/jupyterlab_server_1677143054853/work
 keyring @ file:///home/builder/ci_310/keyring_1640884834928/work
 kiwisolver @ file:///croot/kiwisolver_1672387140495/work
-langchain==0.0.244
+langchain==0.0.325
 langsmith==0.0.14
 lazy-object-proxy @ file:///home/builder/ci_310/lazy-object-proxy_1640791307593/work
 libarchive-c @ file:///tmp/build/80754af9/python-libarchive-c_1617780486945/work
