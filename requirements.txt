@@ -244,7 +244,7 @@ psutil==5.9.5
 ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
 pure-eval==0.2.2
 py @ file:///opt/conda/conda-bld/py_1644396412707/work
-pyarrow==12.0.1
+pyarrow==14.0.1
 pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
 pyasn1-modules==0.2.8
 pycodestyle @ file:///croot/pycodestyle_1674267221883/work
