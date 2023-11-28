@@ -1,7 +1,7 @@
 absl-py==1.4.0
 accelerate @ git+https://github.com/huggingface/accelerate.git@efc1fa83769ee24367837960afc27df2d7799515
 aiofiles==23.1.0
-aiohttp==3.8.4
+aiohttp==3.9.0
 aiosignal==1.3.1
 alabaster @ file:///home/ktietz/src/ci/alabaster_1611921544520/work
 altair==4.2.2
