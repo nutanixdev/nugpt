@@ -100,7 +100,7 @@ gitdb==4.0.10
 GitPython==3.1.31
 glob2 @ file:///home/linux1/recipes/ci/glob2_1610991677669/work
 gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455533097/work
-gradio==3.24.1
+gradio==4.11.0
 gradio_client==0.0.8
 greenlet @ file:///croot/greenlet_1670513226095/work
 h11==0.14.0
